@@ -1,0 +1,36 @@
+---
+references:
+- id: mintzer2008
+  author:
+  - family: Mintzer
+    given: Vanessa J.
+  - family: Gannon
+    given: Damon P.
+  - family: Barros
+    given: Nélio B.
+  - family: Read
+    given: Andrew J.
+  container-title: Marine Mammal Science
+  container-title-short: Marine Mammal Science
+  DOI: 10.1111/j.1748-7692.2008.00189.x
+  is-referenced-by-count: 37
+  ISSN: 0824-0469
+  issue: 2
+  issued: 2008-04
+  language: en
+  member: 311
+  page: 290-302
+  prefix: 10.1111
+  providerKey: doi
+  publisher: Wiley
+  reference-count: 33
+  references-count: 33
+  score: 1
+  source: Crossref
+  title: Stomach contents of mass‐stranded short‐finned pilot whales
+    (*Globicephala macrorhynchus*) from North Carolina
+  type: article-journal
+  update-policy: "http://dx.doi.org/10.1002/crossmark_policy"
+  URL: "http://dx.doi.org/10.1111/j.1748-7692.2008.00189.x"
+  volume: 24
+...
