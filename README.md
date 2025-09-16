@@ -1,8 +1,8 @@
-# !This is a Template Repository - Edit Content Below for Your Species
+# 
 
-## Common Name (_Genus species_)
+## Short-Finned Pilot Whale (_Globicephala macrorhynchus_)
 
-This repository supports the development, co-authoring, and version tracking for the !Insert Common Name! marine mammal stock assessment report(s) authored at the NOAA Fisheries Alaska Fisheries Science Center's Marine Mammal Laboratory.
+This repository supports the development, co-authoring, and version tracking for the Short-Finned Pilot Whale marine mammal stock assessment report(s) authored at the NOAA Fisheries Alaska Fisheries Science Center's Marine Mammal Laboratory.
 
 ## Repository Structure
 
@@ -20,7 +20,7 @@ insert brief description of this stock
 
 The primary author(s) responsible for maintaining this repository are:
 
-  1. Author Name [](author.name@noaa.gov)
+  1. Kathy Foley [](kathy.foley@noaa.gov)
   2. Author Name [](author.name@noaa.gov)
   
 ## Published (Official) Versions
