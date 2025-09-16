@@ -100,6 +100,8 @@ fmt_gamms_numbers <- function(x) {
 
 ## STOCK DEFINITION AND GEOGRAPHIC RANGE
 
+TEST REFERENCE: [@mintzer2008]
+
 This section should summarize stock designation and DIP delineation
 information. This information should include a summary of the lines of
 evidence that support DIP delineations, and cite any supporting
