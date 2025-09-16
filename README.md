@@ -20,7 +20,7 @@ insert brief description of this stock
 
 The primary author(s) responsible for maintaining this repository are:
 
-  1. Kathy Foley [](kathy.foley@noaa.gov)
+  1. [Kathy Foley](kathy.foley@noaa.gov)
   2. Author Name [](author.name@noaa.gov)
   
 ## Published (Official) Versions
