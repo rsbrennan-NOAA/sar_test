@@ -1,6 +1,6 @@
 ---
-title: "Pakicetus Stock A"
-subtitle: "_Pakicetus sp_"
+title: "Short-Finned Pilot Whale - Western North Atlantic Stock"
+subtitle: "_Globicephala macrorhynchus_"
 date: today
 publication-date: 2050-01-01
 date-format: "MMMM DD, YYYY"
@@ -9,9 +9,9 @@ bibliography: ../assets/references_pakicetus.yaml
 csl: ../assets/apa.csl
 
 author:
-  - name: Carl Linnaeus
-    email: carl.linnaeus@noaa.gov
-    orcid: 0000-0001-111-1111
+  - name: Kathy Foley
+    email: kathy.foley@noaa.gov
+    orcid: 
     affiliations:
       - ref: 1
   - name: Charles Darwin
@@ -21,11 +21,11 @@ author:
 
 affiliations:
   - id: 1
-    name: Alaska Fisheries Science Center
+    name: Southeast Fisheries Science Center
     department: National Marine Fisheries Service
-    address: 7600 Sand Point Way NE
-    city: Seattle
-    state: WA
+    address: Add address
+    city: Miami
+    state: FL
 
 execute: 
   echo: false
@@ -40,9 +40,9 @@ format:
   nmfs-sar-pdf-typst:
     nmfs-region: World
     sar-year: 2025
-    stock-name: "Stock A"
-    common-name: "Pakicetus"
-    genus-species: "Pakicetus sp."
+    stock-name: "WNA stock"
+    common-name: "Short-Finned Pilot Whale"
+    genus-species: "Globicephala macrorhynchus"
     linenumbering: true
     keep-typ: false
     fig-width: 9

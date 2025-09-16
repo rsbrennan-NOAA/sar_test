@@ -1,17 +1,15 @@
 project:
   type: website
   render:
-    - pakicetus-stockA/pakicetus-stockA.qmd
-    - pakicetus-stockB/pakicetus-stockB.qmd
+    - sf_pilot_whale_WNAstock/sf_pilot_whale_WNAstock.qmd
 
 website:
-  title: "Marine Mammal Stock Assessment Report - IN DEVELOPMENT"
+  title: "SHORT-FINNED PILOT WHALE (_Globicephala macrorhynchus_): Western North Atlantic Stock - IN DEVELOPMENT"
   navbar:
     left:
-      - file: pakicetus-stockA/pakicetus-stockA.qmd
-        text: Pakicetus - Stock A
-      - file: pakicetus-stockB/pakicetus-stockB.qmd
-        text: Pakicetus - Stock B
+      - file: sf_pilot_whale_WNAstock/sf_pilot_whale_WNAstock.qmd
+        text: Short Finned Pilot Whale - Western North Atlantic Stock
+
 
 format:
   html:
